@@ -1,7 +1,7 @@
 {
-  "description": "Png-To-Canvas test",
-  "version": "0.0.2",
-  "author": "noomorph <noomorph@gmail.com>",
+  "description": "baseline-png-canvas",
+  "version": "0.0.3",
+  "author": "admin@cobjet.com",
   "dependencies": {
     "socket.io": "*",
     "node-static": "*",
@@ -15,5 +15,5 @@
   "scripts": {
     "start": "/server/server.js"
   },
-  "name": "png-to-canvas-test"
+  "name": "baseline-png-canvas"
 }
